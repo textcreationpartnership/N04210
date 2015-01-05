@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:0f6071c351cfad58:005189_0000_0F5FEFACE1033BA0"/>
-            <pb facs="tcp:0f6071c351cfad58:005189_0001_0F5FEFADB1770660"/>
+            <pb facs="unknown:005189_0000_0F5FEFACE1033BA0"/>
+            <pb facs="unknown:005189_0001_0F5FEFADB1770660"/>
             <p>
                <hi>Poor Richard,</hi> 1744.</p>
             <p>AN Almanack For the Year of Christ 1744, It being LEAP-YEAR,
@@ -154,7 +154,7 @@
             </p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:0f6071c351cfad58:005189_0002_0F5FEFAE69833668"/>
+            <pb facs="unknown:005189_0002_0F5FEFAE69833668"/>
             <opener>
                <salute>Courteous Reader,</salute>
             </opener>
@@ -162,7 +162,7 @@
             <p>My Adversary <hi>I —n I —n</hi> has indeed made an Attempt to <hi>out-shine</hi> me, by pretending to pene<g ref="char:EOLhyphen"/>trate <hi>a Year deeper</hi> into Futurity; and giving his Readers <hi>gratis</hi> in his Almanack for 1743 an Eclipse of the Year 1744, to be beforehand with me: His Words are,
 <q>The first Day of <hi>April</hi> next Year 1744, there will be a GREAT ECLIPSE of the Sun; it begins about an Hour before Sunset. It being in the Sign Aries, the House of Mars, and in the 7th. shows Heat, Difference and Ani<g ref="char:EOLhyphen"/>mosities between Persons of the highest Rank and Quality,</q>
                <hi>&amp;c</hi> I am very glad, for the Sake of these Persons of Rank and Quality, that there is <hi>no manner of Truth</hi> in this Prediction: They may, if they please, live in Love and Peace. And I caution his Readers (they are but few, indeed, and so the Matter's the less) not to give themselves any Trouble about observing this imaginary Great Eclipse; for they may stare till they're blind with<g ref="char:EOLhyphen"/>out seeing the least Sign of it. I might, on this Occasion, return Mr. <hi>I—n</hi> the Name of <hi>Baal's false Prophet</hi> he gave me some Years ago in his Wrath, on Account of my Predicting his Reconciliation with the <hi>Church of Rome,</hi> (tho' he seems now to have given up that Point) but I think such Language between old Men and Scholars unbecoming; and I leave him to settle the Affair with the Buyers of
-<pb facs="tcp:0f6071c351cfad58:005189_0003_0F5FEFAF1E05D250"/>
+<pb facs="unknown:005189_0003_0F5FEFAF1E05D250"/>
 his Alma<gap reason="illegible: faint" extent="1 letter">
                   <desc>•</desc>
                </gap>ack as well as he can, who perhaps will not take it very kindly, that he has done what in him lay (by sending them out to gaze at an invisible Eclipse on the first of <hi>April</hi>) to make <hi>April Fools</hi> of them all. His old thread bare Excuse which he repeats Year after Year about the <hi>Weather,</hi>
@@ -205,7 +205,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
       </front>
       <body>
          <div type="table">
-            <pb facs="tcp:0f6071c351cfad58:005189_0004_0F5FEFB05A1CB140"/>
+            <pb facs="unknown:005189_0004_0F5FEFB05A1CB140"/>
             <p>
                <table>
                   <head>Planets Motions <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1091,7 +1091,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
             </p>
          </div>
          <div type="text">
-            <pb facs="tcp:0f6071c351cfad58:005189_0005_0F5FEFB0DAED6308"
+            <pb facs="unknown:005189_0005_0F5FEFB0DAED6308"
                 rendition="simple:additions"/>
             <div type="part">
                <head>The Anatomy of Man's Body as govern'd by the Twelve Constellations.</head>
@@ -1137,7 +1137,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                </list>
             </div>
             <div type="explanatory_note">
-               <pb facs="tcp:0f6071c351cfad58:005189_0006_0F5FEFB18B805600"/>
+               <pb facs="unknown:005189_0006_0F5FEFB18B805600"/>
                <head>Explanation of this <hi>ALMANACK.</hi>
                </head>
                <p>THE first Column shews the Days of the Month The second shews the Week days, <hi>Sunday</hi> Letter this Year being <hi>AG.</hi>
@@ -1191,7 +1191,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                      <desc>•</desc>
                   </gap> Mensuration.</p>
                <div n="1" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0007_0F5FEFB21D84EE38"/>
+                  <pb facs="unknown:005189_0007_0F5FEFB21D84EE38"/>
                   <head>
                      <hi>XI Mon.</hi> January hath xxxi days.</head>
                   <l>
@@ -1636,7 +1636,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="2" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0008_0F5FEFB3A1EAA9B8"/>
+                  <pb facs="unknown:005189_0008_0F5FEFB3A1EAA9B8"/>
                   <head>
                      <hi>XII Mon.</hi> February hath xxix days.</head>
                   <l>Our youth<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2222,7 +2222,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="3" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0009_0F5FEFB46BA0FDB8"/>
+                  <pb facs="unknown:005189_0009_0F5FEFB46BA0FDB8"/>
                   <head>
                      <hi>I Mon.</hi> March hath xxxi days.</head>
                   <l>Without Repentance none to Heav'n can go,</l>
@@ -2619,7 +2619,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="4" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0010_0F5FEFB52E741AE8"/>
+                  <pb facs="unknown:005189_0010_0F5FEFB52E741AE8"/>
                   <head>
                      <hi>II Mon.</hi> Ap<gap reason="illegible" resp="#PDCC" extent="3 letters">
                         <desc>•••</desc>
@@ -3058,7 +3058,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="5" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0011_0F5FEFB5E51C0000"/>
+                  <pb facs="unknown:005189_0011_0F5FEFB5E51C0000"/>
                   <head>
                      <hi>III Mon.</hi> May hath xxxi days.</head>
                   <l>
@@ -3436,7 +3436,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="6" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0012_0F5FEFB6A09FD268"/>
+                  <pb facs="unknown:005189_0012_0F5FEFB6A09FD268"/>
                   <head>
                      <hi>IV Mon.</hi> June hath xxx days.</head>
                   <l>Of all the Causes which <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -3968,7 +3968,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="7" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0013_0F5FEFB7669EA478"/>
+                  <pb facs="unknown:005189_0013_0F5FEFB7669EA478"/>
                   <head>
                      <hi>V Mon.</hi> July hath xxxi day<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -4540,7 +4540,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="8" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0014_0F5FEFB82929FAA8"/>
+                  <pb facs="unknown:005189_0014_0F5FEFB82929FAA8"/>
                   <head>
                      <hi>IV Mon.</hi> August hath xxxi days.</head>
                   <l>Would Men but <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5063,7 +5063,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="9" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0015_0F5FEFB8DD239840"/>
+                  <pb facs="unknown:005189_0015_0F5FEFB8DD239840"/>
                   <head>
                      <hi>VII Mon.</hi> September hath xxx days.</head>
                   <l>All other Goods by Fortune'<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -5696,7 +5696,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="10" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0016_0F5FEFB99B72C390"/>
+                  <pb facs="unknown:005189_0016_0F5FEFB99B72C390"/>
                   <head>
                      <hi>VIII Mon.</hi> Octo<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
@@ -6415,7 +6415,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="11" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0017_0F5FEFBA5BEBBC50"/>
+                  <pb facs="unknown:005189_0017_0F5FEFBA5BEBBC50"/>
                   <head>
                      <hi>IX Mon.</hi> November hath xxx days.</head>
                   <l>
@@ -6823,7 +6823,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </l>
                </div>
                <div n="12" type="month">
-                  <pb facs="tcp:0f6071c351cfad58:005189_0018_0F5FEFBB41FCA6D8"/>
+                  <pb facs="unknown:005189_0018_0F5FEFBB41FCA6D8"/>
                   <head>
                      <hi>X Mon.</hi> December hath xxxi days.</head>
                   <l>This World's an Inn, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -7322,7 +7322,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                </div>
             </div>
             <div type="part">
-               <pb facs="tcp:0f6071c351cfad58:005189_0019_0F5FEFBC63A365D8"/>
+               <pb facs="unknown:005189_0019_0F5FEFBC63A365D8"/>
                <head>ECLIPSES 1744.</head>
                <p>THIS Year there will be four Eclipses, two of the Sun and two of the Moon; but nei<g ref="char:EOLhyphen"/>ther of them will be visi<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -7415,7 +7415,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                </lg>
             </div>
             <div type="court_sessions">
-               <pb facs="tcp:0f6071c351cfad58:005189_0020_0F5FEFBD4F8334E8"/>
+               <pb facs="unknown:005189_0020_0F5FEFBD4F8334E8"/>
                <head>Supreme Courts in <hi>Pennsylvani<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>,</hi> are held</head>
@@ -7634,7 +7634,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                      </gap>erdon</hi> County, the first Tuesday in <hi>May.</hi>
                </p>
                <p>
-                  <pb facs="tcp:0f6071c351cfad58:005189_0021_0F5FEFBD66F24A88"/>
+                  <pb facs="unknown:005189_0021_0F5FEFBD66F24A88"/>
                   <hi>Somers<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>t</hi> Coun<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -7939,7 +7939,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </hi>
                </p>
                <p>
-                  <pb facs="tcp:0f6071c351cfad58:005189_0022_0F5FEFBE1BCE31D0"/>At <hi>Suffolk</hi> County, the second Tuesday in <hi>September.</hi>
+                  <pb facs="unknown:005189_0022_0F5FEFBE1BCE31D0"/>At <hi>Suffolk</hi> County, the second Tuesday in <hi>September.</hi>
                </p>
                <p>At <hi>King</hi>'s County, the 3d Tuesday in <hi>September.</hi>
                </p>
@@ -7987,7 +7987,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                <p>For <hi>Ann-Arundell</hi> and <hi>Dorchester</hi> Counties, the Mon<g ref="char:EOLhyphen"/>day following.</p>
                <p>For <hi>Calvert</hi> and <hi>Talbot</hi> Counties, the Friday after the second Tuesday.</p>
                <p>
-                  <pb facs="tcp:0f6071c351cfad58:005189_0023_0F5FEFC00900EA98"/>For <hi>S<gap reason="illegible: blotted" extent="1 letter">
+                  <pb facs="unknown:005189_0023_0F5FEFC00900EA98"/>For <hi>S<gap reason="illegible: blotted" extent="1 letter">
                         <desc>•</desc>
                      </gap>. Mary</hi>'s and <hi>Queen</hi> Anne's Counties, the Wednesday after the third Tuesday.</p>
                <p>For <hi>Charles</hi> and <hi>Kent</hi> Counties, the Monday after the 3d Tuesday.</p>
@@ -8069,7 +8069,7 @@ his Alma<gap reason="illegible: faint" extent="1 letter">
                   </gap>W.</p>
             </div>
             <div type="mileage_north">
-               <pb facs="tcp:0f6071c351cfad58:005189_0024_0F5FEFC0C1E38158"/>
+               <pb facs="unknown:005189_0024_0F5FEFC0C1E38158"/>
                <head>ROADS Northeastward<g ref="char:punc">▪</g>
                </head>
                <p>
